@@ -1,0 +1,38 @@
+  <!doctype html>
+    <html lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <link type="text/css" rel="stylesheet" href="stylesheet.css">
+        <title>Google</title>
+    </head>
+    <body>
+    <!-- Top navigation code -->
+    <nav>
+    	<ul>
+    		<li> <a href="#">+Akash</a></li>
+    		<li> <a href="#">Search</a></li>
+    		<li> <a href="#">Images</a></li>
+    		<li> <a href="#">Maps</a></li>
+    		<li> <a href="#">Play</a></li>
+    		<li> <a href="#">News</a></li>
+    		<li> <a href="#">Gmail</a></li>
+    		<li> <a href="#">Calendar</a></li>
+    		<li> <a href="#">More</a></li>
+    </nav>
+	<!--Sign in Button in the top right corner --> 
+	<div class =" sign_in">
+		<p> <a href=" #"> SIGN IN </a> </p>
+	</div>
+    
+	<!--Google Logo --> 
+	<div class ="google_logo">
+	<img src="images/google_logo.png">
+	
+	
+	
+	
+	
+	
+	
+    </body>
+    </html>

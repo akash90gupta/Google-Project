@@ -1,0 +1,140 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+nav {
+background-color: black;
+}
+
+nav a{
+  height: 28px;
+  display: inline;   
+  white-space: wrap;
+  padding-top: 4px;
+}
+
+nav a{
+  margin:0 11px;
+  color:#bbb;
+  display: inline;
+}
+
+nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+
+nav a:link{
+  font-size: medium;
+  font-family: "Arial, Helvetica, Comic sans";
+  text-decoration: none;
+}
+#active{ 
+  color:#fff;
+}
+.clear{
+  clear:both;
+}
+#sign_in{
+  clearmargin-top:22px;
+  margin-right: 42px;
+}
+#signinbutton{
+  background-color: #df3a2c;
+  border: 3px solid #df3a2c;
+  border-radius: 2px;
+  height: 30px;
+  width: 68px;
+  float:right;
+}
+
+#signlink{
+  font-family: Arial;
+  font-size: 12px;
+  color: #f7ffff;
+  text-decoration: none;
+}
+
+.google_logo{
+margin-top: 100px;
+text-align: center;
+}
+
+#search{
+  width: 100%;
+  margin: 0 auto;
+  //margin-bottom: 35%;
+  text-align: center;
+  border: none;
+}
+
+#search input{
+  border: none;
+  height: 30px;
+  width: 580px;
+  border: 1px solid #4d90fe;
+  font-size: 14px;
+  font-family: Comic sans;
+}
+
+#buttons{
+  width: 572px;
+  height: 30px;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+#button1{
+  border: 1px solid #c6c6c6;
+  border-radius: 2px;
+  background-color: #f2f2f2;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  font-family: Arial;
+  font-size: 11.5px;
+  color: #777777;
+} 
+
+#button2{
+  border: 1px solid #c6c6c6;
+  border-radius: 2px;
+  background-color: #f2f2f2;
+  width: 114px;
+  height: 30px;
+  margin-left: 15px;
+  text-align: center;
+  font-family: Arial;
+  font-size: 11.5px;
+  color: #777777;
+} 
+
+footer{
+  position: fixed;
+  bottom: 0;
+  border-top: 1px solid #ebebeb;
+  width: 100%;
+  height: 29px;
+  background-color: #fffff;
+  clear: both;
+  text-align: right;
+  white-space: nowrap;
+}
+
+footer a{
+  margin: 0 20px;
+  padding-bottom: 10px;
+  color: #9b9b9b;
+}
+
+footer a:link{
+  font-size: medium;
+  font-family: "Arial";
+  text-decoration: none;
+}
+
+footer a:hover{
+  text-decoration: underline;
+}
